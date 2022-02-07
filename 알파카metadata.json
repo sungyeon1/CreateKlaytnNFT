@@ -1,9 +1,12 @@
 {
-    "title": "Alpaca",
-    "type": "object",
-    "properties": {
-        "name": "Alpaca"
-        "description": "This is a Alpaca",
-        "image": "ipfs://QmdpgukMuuuozpErnRSfy75Q7wiAyuiEuHY1F8wa784Jui"
-    }
+    "attributes" : [ {
+      "trait_type" : "Breed",
+      "value" : "Alpaca"
+    }, {
+      "trait_type" : "Color",
+      "value" : "Mocha"
+    } ],
+    "description" : "Alphaca designed by Goderella",
+    "image" : "ipfs://QmdpgukMuuuozpErnRSfy75Q7wiAyuiEuHY1F8wa784Jui",
+    "name" : "Poropaca"
 }
